@@ -1,0 +1,26 @@
+{
+    "message": "Add Product Success",
+    "result": {
+        "stock": 10,
+        "terjual": 0,
+        "discount": 0,
+        "tags": [
+            "pinang",
+            "sembako",
+            "beras"
+        ],
+        "click_count": 0,
+        "_id": "5f9b4467a72c7366d09e0992",
+        "name": "danny lamtoro",
+        "price": 10000,
+        "tax": 500,
+        "image_url": "http://localhost:4000/img/barang/1604011111578-beras.jpg",
+        "description": "lorem",
+        "created_date": "2020-10-30",
+        "user_id": "5f97c176420ed3be30a57d7e",
+        "slug": "danny-lamtoro",
+        "createdAt": "2020-10-29T22:38:31.616Z",
+        "updatedAt": "2020-10-29T22:38:31.616Z",
+        "__v": 0
+    }
+}
