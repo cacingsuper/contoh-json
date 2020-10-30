@@ -1,0 +1,16 @@
+{
+    "message": "GET User By Id Success",
+    "data": {
+        "_id": "5f97c176420ed3be30a57d7e",
+        "role": "member",
+        "username": "member2",
+        "password": "$2b$10$JxaGvqoFVnjHci1kpj5VduAlazI5UsgVMlwUbwEqvRd1SOkujyste",
+        "email": "danny_lamtoro@gmail.com",
+        "isOnline": true,
+        "isActive": true,
+        "isRemember": true,
+        "createdAt": "2020-10-27T06:43:02.011Z",
+        "updatedAt": "2020-10-27T06:51:41.324Z",
+        "__v": 0
+    }
+}
